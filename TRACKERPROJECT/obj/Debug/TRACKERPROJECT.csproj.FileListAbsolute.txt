@@ -1,0 +1,12 @@
+C:\MSSA\Data Structures\TRACKERPROJECT\bin\Debug\TRACKERPROJECT.exe.config
+C:\MSSA\Data Structures\TRACKERPROJECT\bin\Debug\TRACKERPROJECT.exe
+C:\MSSA\Data Structures\TRACKERPROJECT\bin\Debug\TRACKERPROJECT.pdb
+C:\MSSA\Data Structures\TRACKERPROJECT\obj\Debug\TRACKERPROJECT.csproj.AssemblyReference.cache
+C:\MSSA\Data Structures\TRACKERPROJECT\obj\Debug\TRACKERPROJECT.Form1.resources
+C:\MSSA\Data Structures\TRACKERPROJECT\obj\Debug\TRACKERPROJECT.Properties.Resources.resources
+C:\MSSA\Data Structures\TRACKERPROJECT\obj\Debug\TRACKERPROJECT.csproj.GenerateResource.cache
+C:\MSSA\Data Structures\TRACKERPROJECT\obj\Debug\TRACKERPROJECT.csproj.CoreCompileInputs.cache
+C:\MSSA\Data Structures\TRACKERPROJECT\obj\Debug\TRACKERPROJECT.exe
+C:\MSSA\Data Structures\TRACKERPROJECT\obj\Debug\TRACKERPROJECT.pdb
+C:\MSSA\Data Structures\TRACKERPROJECT\obj\Debug\TRACKERPROJECT.Form2.resources
+C:\MSSA\Data Structures\TRACKERPROJECT\obj\Debug\TRACKERPROJECT.Form3.resources
